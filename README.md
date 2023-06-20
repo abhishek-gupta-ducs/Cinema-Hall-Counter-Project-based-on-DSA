@@ -2,6 +2,7 @@
 
 This Cinema Hall counter ticket Booking System is a collection of programs that simulate a ticket booking process. It consists of several classes and functionalities to manage customers, queues, stalls, sorting of booked tickets, and the booking process itself.
 
+
 # About All Classes Used
 
 
@@ -79,3 +80,8 @@ The sort.h header file provides a class that implements quick sorting algorithm 
     or
 
     `gcc main.cpp -o main -lstdc++`
+
+# Results
+
+![booker](/Presentation/booker.gif)
+![booker](/Presentation/shower.gif)
