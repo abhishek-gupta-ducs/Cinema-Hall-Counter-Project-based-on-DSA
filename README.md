@@ -1,6 +1,6 @@
-# Cinema-Hall-Counter-Project-based-on-DSA
+# Cinema-Hall-Ticket-Counter-Project-based-on-DSA
 
-This Cinema Hall counter ticket Booking System is a collection of programs that simulate a ticket booking process. It consists of several classes and functionalities to manage customers, queues, stalls, sorting of booked tickets, and the booking process itself.
+This Cinema Hall ticket counter Booking System is a collection of programs that simulate a ticket booking process. It consists of several classes and functionalities to manage customers, queues, stalls, sorting of booked tickets, and the booking process itself.
 
 
 # About All Classes Used
